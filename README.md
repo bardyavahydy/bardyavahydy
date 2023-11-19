@@ -13,7 +13,11 @@ currently learning `FrontEnd` development and solving its ***challenges***.
 <br/>
 <br/>
 <br/>
+## Which programming languages do I use more in my projects?? : 🤔
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bardyavahydy&layout=pie)](https://github.com/bardyavahydy/github-readme-stats)
+<br/>
+<br/>
+<br/>
 ## Ways to contact me : 📞
-<a href='https://instagram.com/vahydy.bardya'><img src='https://github.com/bardyavahydy/bardyavahydy/blob/main/icons8-instagram-100.png?raw=true' alt="instagram"></a>
-<a href='https://t.me/vahydy_bardya'><img src='https://github.com/bardyavahydy/bardyavahydy/blob/main/icons8-telegram-96.png?raw=true' alt="telegram"></a>
-
+<a href='https://instagram.com/vahydy.bardya'><img display="inline-block" width="50px" height="50px" src='https://github.com/bardyavahydy/bardyavahydy/blob/main/icons8-instagram-100.png?raw=true' alt="instagram"></a>
+<a href='https://t.me/vahydy_bardya'><img display="inline-block" width="50px" height="50px" src='https://github.com/bardyavahydy/bardyavahydy/blob/main/icons8-telegram-96.png?raw=true' alt="telegram"></a>
