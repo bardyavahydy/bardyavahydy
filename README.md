@@ -24,6 +24,6 @@ currently learning `FrontEnd` development and solving its ***challenges***.
 <br/>
 <br/>
 ## 📞 &nbsp; Ways to contact me : 
-<a href='https://instagram.com/vahydy.bardya'><img width="50px" height="50px" src='https://github.com/bardyavahydy/bardyavahydy/blob/main/icons8-instagram-100.png?raw=true' alt="instagram"></a> &nbsp;
-<a href="mailto:vahydy.bardya97@gmail.com"><img width="50px" height="50px" src='https://github.com/bardyavahydy/bardyavahydy/blob/main/icons8-gmail-100.png?raw=true' alt="gmail"></a>
-<a href='https://t.me/vahydy_bardya'><img width="50px" height="50px" src='https://github.com/bardyavahydy/bardyavahydy/blob/main/icons8-telegram-96.png?raw=true' alt="telegram"></a>
+<a href='https://instagram.com/vahydy.bardya'><img width="80px" height="80px" src='https://github.com/bardyavahydy/bardyavahydy/blob/main/icons8-instagram-100.png?raw=true' alt="instagram"></a> &nbsp;
+<a href='https://t.me/vahydy_bardya'><img width="80px" height="80px" src='https://github.com/bardyavahydy/bardyavahydy/blob/main/icons8-telegram100.png?raw=true' alt="telegram"></a> &nbsp;
+<a href="mailto:vahydy.bardya97@gmail.com"><img width="80px" height="80px" src='https://github.com/bardyavahydy/bardyavahydy/blob/main/icons8-gmail-100.png?raw=true' alt="gmail"></a> &nbsp;
