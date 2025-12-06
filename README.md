@@ -18,6 +18,7 @@ currently learning `FrontEnd` development and solving its ***challenges***.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%858381&color=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=%e06d0f&color=black)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=red&color=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=green&color=black)
 <br/>
 <br/>
 ## 🤔 &nbsp; Which programming languages do I use more in my projects?? :
