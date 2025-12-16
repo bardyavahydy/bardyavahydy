@@ -27,13 +27,15 @@ currently learning `FrontEnd` development and solving its ***challenges***.
 </p>
 <br/>
 <br/>
-## 📊 &nbsp; Github stats : 
+
+##  📊 &nbsp; Github stats : 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bardyavahydy&show_icons=true&theme=onedark&hide_border=true&rank_icon=github" />
 </p>
 <br/>
 <br/>
-## 📞 &nbsp; Ways to contact me : 
+
+##  📞 &nbsp; Ways to contact me : 
 <a href='https://instagram.com/vahydy.bardya'><img width="80px" height="80px" src='https://github.com/bardyavahydy/bardyavahydy/blob/main/icons8-instagram-100.png?raw=true' alt="instagram"></a> &nbsp;
 <a href='https://t.me/vahydy_bardya'><img width="80px" height="80px" src='https://github.com/bardyavahydy/bardyavahydy/blob/main/icons8-telegram100.png?raw=true' alt="telegram"></a> &nbsp;
 <a href="mailto:vahydy.bardya97@gmail.com"><img width="80px" height="80px" src='https://github.com/bardyavahydy/bardyavahydy/blob/main/icons8-gmail-100.png?raw=true' alt="gmail"></a> &nbsp;
